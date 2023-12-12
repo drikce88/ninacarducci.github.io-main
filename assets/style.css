@@ -6,6 +6,10 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
+#schema-information {
+	display: none;
+}
+
 .top-header {
 	background-color: white;
 	position: sticky;
