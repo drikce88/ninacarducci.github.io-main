@@ -130,6 +130,9 @@ body {
 	padding: .5em;
 	cursor: pointer;
 }
+.lightboxImage {
+	width: 100%;
+}
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
